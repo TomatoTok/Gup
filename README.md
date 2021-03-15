@@ -1,5 +1,5 @@
 # Gup
-Manejo de información en tablas basado en un gestor de usuarios con JFrame( JTable, buttons, etc.) con cifrado y base de datos en .txt local
+Manejo de información en tablas basado en un gestor de usuarios con JFrame( JTable, buttons, etc.) con cifrado y base de datos en .txt local hecho en NetBeans Java.
 
 +El archivo CargaYalmacenamientoDeObjetos.java es la prueba de crear y almacenar informacion en .txt .          
 +El archivo VentanaTabla.java es la prueba de manipular informacion dentro de una JTable en NetBeans.       
