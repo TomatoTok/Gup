@@ -12,23 +12,23 @@ Manejo de información en tablas basado en un gestor de usuarios con JFrame( JTa
 
 //(Las clases anteriores fueron remplazadas.
   El proyecto consta de 4 clases o JFrames
-    ventanaLogin --> Login para acceder
-    ventanaPpal --> Gestór o programa principal
-    ventanaInformacion --> Informacion útil para el uso
+    ventanaLogin --> Login para acceder.                
+    ventanaPpal --> Gestór o programa principal.              
+    ventanaInformacion --> Informacion útil para el uso.             
     ventanaCreditos --> Créditos y versiones de programas involucrados).
     
 Esta versión consta con:
-*Mejoras en el sistema interno.
-*Mejora en carga y descarga de información.
-*Mejora en experiencia usuario.
-*Modo noche.
-*Contraseña oculta con posibilidad de observar.
-*Se añadió nueva sección "Plataforma" para reconocer a donde pertenece.
-*Se añadieron botones llamados "Elementos" que permiten asociar una cuenta a una plataforma.
-*Mayor velocidad y menos consumo de memoria.
-*Nueva interface.
-*Crea archivos en la raíz del programa cuando no existan.
-*Necesidad de rellenar todos los campos para evitar vacíos.
-*Botones visuales sin texto.
-*Fluides de información.
-(Advertencia se sigue sin poder utilizar el caracter '+' para rellenar campos).
+*Mejoras en el sistema interno.                   
+*Mejora en carga y descarga de información.                           
+*Mejora en experiencia usuario.                 
+*Modo noche.                                                                          
+*Contraseña oculta con posibilidad de observar.                       
+*Se añadió nueva sección "Plataforma" para reconocer a donde pertenece .                          
+*Se añadieron botones llamados "Elementos" que permiten asociar una cuenta a una plataforma.                
+*Mayor velocidad y menos consumo de memoria.                    
+*Nueva interface.                         
+*Crea archivos en la raíz del programa cuando no existan.                     
+*Necesidad de rellenar todos los campos para evitar vacíos.                             
+*Botones visuales sin texto.                                
+*Fluides de información.                                      
+(Advertencia se sigue sin poder utilizar el caracter '+' para rellenar campos).                     
