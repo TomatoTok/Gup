@@ -149,7 +149,7 @@ public class ventanaPpal extends javax.swing.JFrame {
             }
         }
     }
-//METODOS Y CODIGO CREADO POR EL GUI DE JFRAME
+//+++++++++++++++++++++++++++++++++++++++++++++++++++METODOS Y CODIGO CREADO POR EL GUI DE JFRAME++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -529,7 +529,10 @@ public class ventanaPpal extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-//  MIS METODOS OTRA VEZ
+    
+    
+//+++++++++++++++++++++++++++++++++++++++++++++++++++DE NUEVO MIS METODOS++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    
     private void btnAgregarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAgregarActionPerformed
         // TODO add your handling code here:
         if ((this.txtCorreo.getText().equalsIgnoreCase("")) || (this.txtContrasena.getText().equalsIgnoreCase("")) || (this.txtUsuario.getText().equalsIgnoreCase(""))) {
@@ -758,7 +761,8 @@ public class ventanaPpal extends javax.swing.JFrame {
         System.out.println(cadena);
         return cadena;
     }
-//MAS METODOS DE JFRAME
+    
+//+++++++++++++++++++++++++++++++++++++++++++++++++++METODOS Y CODIGO CREADO POR EL GUI DE JFRAME++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     /**
      * @param args the command line arguments
      */
