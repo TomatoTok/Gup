@@ -10,9 +10,9 @@ Manejo de información en tablas basado en un gestor de usuarios con JFrame( JTa
 
 [Versión Alpha del proyecto GUP (30-03-21)]
 
-//(Las clases anteriores fueron remplazadas.
-  El proyecto consta de 4 clases o JFrames
-    ventanaLogin --> Login para acceder.                
+//(Las clases anteriores fueron remplazadas.    
+  El proyecto consta de 4 clases o JFrames.                          
+    ventanaLogin --> Login para acceder.                       
     ventanaPpal --> Gestór o programa principal.              
     ventanaInformacion --> Informacion útil para el uso.             
     ventanaCreditos --> Créditos y versiones de programas involucrados).
