@@ -3,7 +3,7 @@ Manejo de información en tablas basado en un gestor de usuarios con JFrame( JTa
 
 [Version PreAlpha del proyecto GUP (14-03-21)]
 
-//(El proyecto consta de varios archivos de los cuales los importantes son:
+//(El proyecto consta de varios archivos de los cuales los importantes son:             
     CargaYalmacenamientoDeObjetos.java --> Es la prueba de crear y almacenar informacion en .txt .          
     VentanaTabla.java --> Es la prueba de manipular informacion dentro de una JTable en NetBeans.       
     CargarTable.java --> Es el código del programa PreAlpha de un gestor de usuarios personal)//.    
