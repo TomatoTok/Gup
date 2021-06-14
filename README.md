@@ -41,7 +41,7 @@ Esta versión consta con:
 *Fluides de información.                                      
 (Advertencia se sigue sin poder utilizar el caracter '+' para rellenar campos).    
 
-======================[Próxima version prevista para el (31/05/2021)]====================== 
+======================[Próxima version prevista para el (??/??/2021)]====================== 
 
 *NOVEDAD: Se permitirá la descarga del mismo para pruebas y testeo.
 *ACTUALIZACION: Se vio retrasada la fecha y se posterga, disculpe las molestias.
