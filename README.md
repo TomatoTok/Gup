@@ -4,7 +4,7 @@
                                                                                                                                         
 📢 _Los datos que son almacenados dentro del sistema son codificados y cifrados en la base de datos, estos se interpretan nuevamente en la carga de datos una vez el sistema inicia._
 
-### =================[Version PreAlpha del proyecto GUP (14-03-21)]======================
+### =====[Version PreAlpha del proyecto GUP (14-03-21)]=====
 
 - El proyecto consta de varios archivos de los cuales los importantes son:             
     + CargaYalmacenamientoDeObjetos.java --> Es la prueba de crear y almacenar informacion en .txt .          
@@ -22,7 +22,7 @@
 ``` 
 <b>(Advertencia NO se puede utilizar el caracter '+' para rellenar campos debido al algoritmo de guardar/cargar, próximo a mejorar).</b> 
 
-### =================[Versión Alpha del proyecto GUP (30-03-21)]======================
+### =====[Versión Alpha del proyecto GUP (30-03-21)]=====
 
 Las clases anteriores fueron <b>remplazadas</b>.    
 - El proyecto consta de 4 clases o JFrames.                          
@@ -49,7 +49,7 @@ Esta versión consta con:
 ``` 
 <b>(Advertencia se sigue sin poder utilizar el caracter '+' para rellenar campos).</b>    
 
-### =================[Próxima version prevista para el (??/??/2021)]====================== 
+### =====[Próxima version prevista para el (??/??/2021)]===== 
 
 _NOVEDAD: Se permitirá la descarga del mismo para pruebas y testeo._                                                                                               
 _ACTUALIZACION: Se vio retrasada la fecha y se posterga, disculpe las molestias._
