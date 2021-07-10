@@ -4,50 +4,8 @@
                                                                                                                                         
 📢 _Los datos que son almacenados dentro del sistema son codificados y cifrados en la base de datos, estos se interpretan nuevamente en la carga de datos una vez el sistema inicia._
 
-### =====[Version PreAlpha del proyecto GUP (14-03-21)]=====
-
-- El proyecto consta de varios archivos de los cuales los importantes son:             
-    + CargaYalmacenamientoDeObjetos.java --> Es la prueba de crear y almacenar informacion en .txt .          
-    + VentanaTabla.java --> Es la prueba de manipular informacion dentro de una JTable en NetBeans.       
-    + CargarTable.java --> Es el código del programa PreAlpha de un gestor de usuarios personal.    
-      
-<i>Algunas clases son a forma de testeo de funciones como "DefaultTableModel", "DataOutputStream" o "FileInputStream", entre otras.</i>
-- Esta versión consta con:   
-``` 
-- Carga y descarga de información.   
-- Botones con funciones independientes.    
-- Click en tabla para modificar.   
-- Campos de texto dinamicos.   
-- Pronto subiré la version del programa final. 
-``` 
-<b>(Advertencia NO se puede utilizar el caracter '+' para rellenar campos debido al algoritmo de guardar/cargar, próximo a mejorar).</b> 
-
-### =====[Versión Alpha del proyecto GUP (30-03-21)]=====
-
-Las clases anteriores fueron <b>remplazadas</b>.    
-- El proyecto consta de 4 clases o JFrames.                          
-    + ventanaLogin --> Login para acceder.                       
-    + ventanaPpal --> Gestór o programa principal.              
-    + ventanaInformacion --> Informacion útil para el usuario.             
-    + ventanaCreditos --> Créditos y versiones de programas involucrados.
-    
-Esta versión consta con:                                    
-``` 
-- Mejoras en el sistema interno.                   
-- Mejora en carga y descarga de información.                           
-- Mejora en experiencia usuario.                 
-- Modo noche.                                                                          
-- Contraseña oculta con posibilidad de observar.                       
-- Se añadió nueva sección "Plataforma" para reconocer a donde pertenece .                          
-- Se añadieron botones llamados "Elementos" que permiten asociar una cuenta a una plataforma.                
-- Mayor velocidad y menos consumo de memoria.                    
-- Nueva interface.                         
-- Crea archivos en la raíz del programa cuando no existan.                     
-- Necesidad de rellenar todos los campos para evitar vacíos.                             
-- Botones visuales sin texto.                                
-- Fluides de información.                                      
-``` 
-<b>(Advertencia se sigue sin poder utilizar el caracter '+' para rellenar campos).</b>    
+#### Para mas informacion acceder a su respectiva documentacion: 
+<a href="codepen.io/tomatotok/full/abwzeee" target="_blank" > Gestor de Usuarios Personal Doc </a>
 
 ### =====[Próxima version prevista para el (??/??/2021)]===== 
 
