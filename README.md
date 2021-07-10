@@ -5,7 +5,7 @@
 📢 _Los datos que son almacenados dentro del sistema son codificados y cifrados en la base de datos, estos se interpretan nuevamente en la carga de datos una vez el sistema inicia._
 
 #### Para mas informacion acceder a su respectiva documentacion: 
-<a href="codepen.io/tomatotok/full/abwzeee" target="_blank" > Gestor de Usuarios Personal Doc </a>
+<a href="https://codepen.io/tomatotok/full/abWZeee" target="_blank" > Gestor de Usuarios Personal Doc </a>
 
 ### =====[Próxima version prevista para el (??/??/2021)]===== 
 
